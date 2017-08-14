@@ -1,0 +1,331 @@
+------ CONFIGURAÇÕES DO COMPUTADOR ------
+
+Processador: Intel Core i5-4590 3.30 GHz
+Memoria: 8GB RAM
+VGA: Nvidea Geforce GTX 960 2GB VRAM
+
+-----------------------------------------
+
+
+Algoritmo de Ordenacao (1): Selection Sort
+
+Ordenacao de Vetor (1): Ordem Aleatoria
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0.078 segundos
+
+Data e Hora: Mon Jun 12 01:50:48 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (2): Insertion Sort
+
+Ordenacao de Vetor (1): Ordem Aleatoria
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0.016 segundos
+
+Data e Hora: Mon Jun 12 01:50:49 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (3): Quick Sort
+
+Ordenacao de Vetor (1): Ordem Aleatoria
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:50:50 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (4): Selection Sort
+
+Ordenacao de Vetor (2): Ordem Decrescente
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0.062 segundos
+
+Data e Hora: Mon Jun 12 01:50:54 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (5): Insertion Sort
+
+Ordenacao de Vetor (2): Ordem Decrescente
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0.031 segundos
+
+Data e Hora: Mon Jun 12 01:50:55 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (6): Quick Sort
+
+Ordenacao de Vetor (2): Ordem Decrescente
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:50:55 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (7): Selection Sort
+
+Ordenacao de Vetor (3): Ordem Crescente
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0.032 segundos
+
+Data e Hora: Mon Jun 12 01:50:59 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (8): Insertion Sort
+
+Ordenacao de Vetor (3): Ordem Crescente
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:51:00 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (9): Quick Sort
+
+Ordenacao de Vetor (3): Ordem Crescente
+
+Tamanho do Vetor (1): 5000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:51:01 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (10): Selection Sort
+
+Ordenacao de Vetor (4): Ordem Aleatoria
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 7.735 segundos
+
+Data e Hora: Mon Jun 12 01:51:07 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (11): Insertion Sort
+
+Ordenacao de Vetor (4): Ordem Aleatoria
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 1.609 segundos
+
+Data e Hora: Mon Jun 12 01:51:16 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (12): Quick Sort
+
+Ordenacao de Vetor (4): Ordem Aleatoria
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:51:19 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (13): Selection Sort
+
+Ordenacao de Vetor (5): Ordem Decrescente
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 5.329 segundos
+
+Data e Hora: Mon Jun 12 01:51:22 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (14): Insertion Sort
+
+Ordenacao de Vetor (5): Ordem Decrescente
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 3.218 segundos
+
+Data e Hora: Mon Jun 12 01:51:29 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (15): Quick Sort
+
+Ordenacao de Vetor (5): Ordem Decrescente
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:51:33 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (16): Selection Sort
+
+Ordenacao de Vetor (6): Ordem Crescente
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 0.047 segundos
+
+Data e Hora: Mon Jun 12 01:51:39 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (17): Insertion Sort
+
+Ordenacao de Vetor (6): Ordem Crescente
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:51:40 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (18): Quick Sort
+
+Ordenacao de Vetor (6): Ordem Crescente
+
+Tamanho do Vetor (2): 50000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:51:41 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (19): Selection Sort
+
+Ordenacao de Vetor (7): Ordem Aleatoria
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 30.891 segundos
+
+Data e Hora: Mon Jun 12 01:51:49 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (20): Insertion Sort
+
+Ordenacao de Vetor (7): Ordem Aleatoria
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 6.422 segundos
+
+Data e Hora: Mon Jun 12 01:52:22 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (21): Quick Sort
+
+Ordenacao de Vetor (7): Ordem Aleatoria
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:52:30 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (22): Selection Sort
+
+Ordenacao de Vetor (8): Ordem Decrescente
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 21.219 segundos
+
+Data e Hora: Mon Jun 12 01:52:36 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (23): Insertion Sort
+
+Ordenacao de Vetor (8): Ordem Decrescente
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 12.906 segundos
+
+Data e Hora: Mon Jun 12 01:52:58 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (24): Quick Sort
+
+Ordenacao de Vetor (8): Ordem Decrescente
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:53:13 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (25): Selection Sort
+
+Ordenacao de Vetor (9): Ordem Crescente
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 0.032 segundos
+
+Data e Hora: Mon Jun 12 01:53:18 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (26): Insertion Sort
+
+Ordenacao de Vetor (9): Ordem Crescente
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:53:19 2017
+
+__________________________________________
+
+Algoritmo de Ordenacao (27): Quick Sort
+
+Ordenacao de Vetor (9): Ordem Crescente
+
+Tamanho do Vetor (3): 100000 posicoes
+
+Tempo de Ordenacao: 0 segundos
+
+Data e Hora: Mon Jun 12 01:53:20 2017
+
